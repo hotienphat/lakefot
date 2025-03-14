@@ -9,7 +9,7 @@ const default_config = {
   tabs: [
     {
       name: "FOT || A1",
-      background_url: `src/img/banners/cas.png`,
+      background_url: `src/img/banners/cbg-3.gif`,
       categories: [
         {
           name: "Mạng Xã Hội",
