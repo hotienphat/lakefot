@@ -35,7 +35,7 @@ const default_config = {
           ],
         },
         {
-          name: "GU GỒ",
+          name: "GOOGLE",
           links: [
             {
               name: "youtube",
