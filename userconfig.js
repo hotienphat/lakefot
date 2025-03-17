@@ -21,6 +21,12 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
+              name: "Messenger",
+              url: "https://www.messenger.com/",
+              icon: "brand-messenger",
+              icon_color: palette.green,
+            },
+            {
               name: "Instagram",
               url: "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fhotien_boyneh%2F&is_from_rle",
               icon: "brand-instagram",
