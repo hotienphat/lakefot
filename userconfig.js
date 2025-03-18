@@ -44,7 +44,7 @@ const default_config = {
           name: "GOOGLE",
           links: [
             {
-              name: "youtube",
+              name: "Youtube",
               url: "https://www.youtube.com",
               icon: "brand-youtube",
               icon_color: palette.red,
