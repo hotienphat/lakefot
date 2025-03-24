@@ -78,13 +78,13 @@ const default_config = {
               icon: "brand-github",
               icon_color: palette.blue,
             },
-          ],
-          {
+            {
               name: "Canva",
               url: "https://www.canva.com/design/DAGh3gyyWTM/Nbv8kDen2Vo0dl8RD-54Bw/edit?utm_content=DAGh3gyyWTM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
               icon: "template",
               icon_color: palette.blue,
             },
+          ],
         },
         {
           name: "Giải trí",
