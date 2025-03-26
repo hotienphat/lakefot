@@ -73,8 +73,8 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "Github",
-              url: "https://github.com/hotienphat",
+              name: "BetterGI - Github",
+              url: "https://github.com/babalae/better-genshin-impact?tab=readme-ov-file",
               icon: "brand-github",
               icon_color: palette.blue,
             },
