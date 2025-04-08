@@ -79,8 +79,8 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "Canva",
-              url: "https://www.canva.com/design/DAGh3gyyWTM/Nbv8kDen2Vo0dl8RD-54Bw/edit?utm_content=DAGh3gyyWTM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+              name: "Điểm danh",
+              url: "https://docs.google.com/spreadsheets/d/18WWCQDtQSh04vb4Snubdb-EaMMI6Ic2KjkzWI53gezM/edit?gid=0#gid=0",
               icon: "template",
               icon_color: palette.blue,
             },
